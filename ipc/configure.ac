@@ -8,5 +8,6 @@ AC_CONFIG_FILES([
  src/Makefile
  src/popen/Makefile
  src/pipe/Makefile
+ src/fifo/Makefile
 ])
 AC_OUTPUT

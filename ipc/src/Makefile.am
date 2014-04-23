@@ -1,1 +1,1 @@
-SUBDIRS = popen pipe
+SUBDIRS = popen pipe fifo
